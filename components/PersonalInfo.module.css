@@ -1,0 +1,19 @@
+.text_input {
+    min-width: 20vw;
+    max-width: 300px;
+    margin: auto;
+}
+
+.auto_complete {
+    min-width: 20vw;
+    max-width: 300px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.radio_select {
+    justify-content: flex-start;
+    text-align: left;
+}
